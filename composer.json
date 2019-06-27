@@ -1,5 +1,8 @@
 {
     "name": "julian/psr4",
+    "type": "libary",
+    "description": "testing shit",
+    "keywords": ["testing", "psr4", "require"],
     "authors": [
         {
             "name": "Julian Otten",
