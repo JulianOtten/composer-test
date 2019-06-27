@@ -1,0 +1,17 @@
+{
+    "name": "julian/psr4",
+    "authors": [
+        {
+            "name": "Julian Otten",
+            "email": "juliannottenn@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Nidaros\\": "app/"
+        }
+    },
+    "require-dev": {
+        "fzaninotto/faker": "^1.8"
+    }
+}
