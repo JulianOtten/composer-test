@@ -1,5 +1,5 @@
 {
-    "name": "julian/psr4",
+    "name": "julian/something",
     "type": "libary",
     "description": "testing shit",
     "keywords": ["testing", "psr4", "require"],
@@ -11,10 +11,10 @@
     ],
     "autoload": {
         "psr-4": {
-            "Nidaros\\": "app/"
+            "Something\\": "app/"
         }
     },
-    "require-dev": {
+    "require": {
         "fzaninotto/faker": "^1.8"
     }
 }

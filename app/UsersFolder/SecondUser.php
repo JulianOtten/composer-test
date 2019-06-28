@@ -1,5 +1,5 @@
 <?php
-namespace Nidaros\UsersFolder;
+namespace Something\UsersFolder;
 
 class SecondUser 
 {

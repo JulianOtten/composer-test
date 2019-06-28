@@ -1,5 +1,5 @@
 <?php
-namespace Nidaros\Models;
+namespace Something\Models;
 
 class Model 
 {

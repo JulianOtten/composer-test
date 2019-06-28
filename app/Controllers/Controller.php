@@ -1,5 +1,5 @@
 <?php
-namespace Nidaros\Controllers;
+namespace Something\Controllers;
 
 class Controller 
 {
