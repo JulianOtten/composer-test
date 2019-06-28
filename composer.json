@@ -1,0 +1,20 @@
+{
+    "name": "julian/psr4",
+    "type": "libary",
+    "description": "testing shit",
+    "keywords": ["testing", "psr4", "require"],
+    "authors": [
+        {
+            "name": "Julian Otten",
+            "email": "juliannottenn@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Nidaros\\": "app/"
+        }
+    },
+    "require-dev": {
+        "fzaninotto/faker": "^1.8"
+    }
+}
