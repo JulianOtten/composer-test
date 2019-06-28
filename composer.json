@@ -1,6 +1,6 @@
 {
     "name": "julian/psr4",
-    "type": "libary",
+    "type": "project",
     "description": "testing shit",
     "keywords": ["testing", "psr4", "require"],
     "authors": [
